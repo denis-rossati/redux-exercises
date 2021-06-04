@@ -1,0 +1,3 @@
+[submodule "exercise-react-with-redux-intro"]
+	path = exercise-react-with-redux-intro
+	url = git@github.com:denis-rossati/exercise-react-with-redux-intro.git
